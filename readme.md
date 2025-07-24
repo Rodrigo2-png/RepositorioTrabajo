@@ -1,15 +1,7 @@
-# 📚 Estudio de Roles Básicos en Desarrollo Web y Móvil
-
-##  Recurso Usen el Link odicial para aprender git /github Todos 
-https://docs.github.com/es/get-started/start-your-journey/git-and-github-learning-resources
-## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
-
-0. José Jiménez - josej@unsa.edu.pe  
-1. Luis  
-2. Pedro  
-3. María  
-...  
-12. 
+# Estudio de Roles Básicos en Desarrollo Web y Móvil
+## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio
+- Luis García lgarciada@unsa.edu.pe
+- 
 
 ## 1) Conceptos Generales para tener en cuenta
 En el contexto de desarrollo web y móvil: diferencias entre librerías, frameworks y patrones de diseño.
@@ -27,35 +19,62 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 **Roles básicos en el desarrollo de aplicaciones web y aplicación móvil**
 
 ## 4) Desarrollador Frontend
-- Descripción del rol  
-- Habilidades requeridas  
-- Relación con roles de backend, QA, Desarrollador Android  
+- Descripción del rol: El desarrollo frontend se enfoca en la creación de la interfaz visual y la experiencia del usuario en una página web. Utiliza HTML, CSS y JS para construir páginas interactivas y responsivas. Su objetivo principal es garantizar que los usuarios puedan interactuar de forma intuitiva, rápida y eficiente con el sitio o aplicación. 
+- Habilidades requeridas:   
+- Relación con roles de backend, QA, Desarrollador Android:   
 - Stack tecnológico:  
   - Lenguajes  
   - Frameworks  
 
 ## 5) Links recomendados para capacitación Rol Frontend
-*(Separados por criterios)*  
 🔹 **Sin certificaciones**:  
 🔹 **Con certificación**:  
 🔹 **Proyectos completos de ejemplo**:  
 🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**:  
 
 ## 6) Desarrollador Backend
-*(Estructura similar a Frontend)*
+- Descripción del rol:
+- Habilidades requeridas:   
+- Relación con roles de backend, QA, Desarrollador Android:   
+- Stack tecnológico:  
+  - Lenguajes  
+  - Frameworks 
 
 ## 7) Links recomendados para capacitación Rol Backend
-
+🔹 **Sin certificaciones**:  
+🔹 **Con certificación**:  
+🔹 **Proyectos completos de ejemplo**:  
+🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**: 
 ## 8) Rol QA
+- Descripción del rol:
+- Habilidades requeridas:   
+- Relación con roles de backend, QA, Desarrollador Android:   
+- Stack tecnológico:  
+  - Lenguajes  
+  - Frameworks 
 
 ## 9) Links recomendados para capacitación Rol QA
+🔹 **Sin certificaciones**:  
+🔹 **Con certificación**:  
+🔹 **Proyectos completos de ejemplo**:  
+🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**: 
 
-## 10) Desarrollador Android
+## 8) Desarrollador Android
+- Descripción del rol:
+- Habilidades requeridas:   
+- Relación con roles de backend, QA, Desarrollador Android:   
+- Stack tecnológico:  
+  - Lenguajes  
+  - Frameworks 
 
-## 11) Links recomendados para capacitación Rol Android
+## 9) Links recomendados para capacitación Rol Android
+🔹 **Sin certificaciones**:  
+🔹 **Con certificación**:  
+🔹 **Proyectos completos de ejemplo**:  
+🔹 **Recomendadas por líderes (Microsoft, AWS, Google)**:
 
 ## 12) Pasos a Desarrollar  
-1. **Integrante 0** crea repositorio remoto: `EstudioRolesBasicos`  
+1. Luis García crea repositorio remoto: `RepositorioTrabajo`  
 2. Compartir el repositorio con compañeros:  
    - Ir a Settings ⚙️ > Collaborators  
    - Invitar usando nombre de usuario GitHub o email registrado  
@@ -69,7 +88,6 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
      ```
    - Ver contenido con `dir` (Windows) o `ls` (Linux/Mac)
 ejemplo de link
-https://github.com/jjuarez29/PYTHON01/settings
 
 ## Conociendo algo de mermaid y markdown
 **Mermaid** y **Markdown** son herramientas complementarias pero con propósitos diferentes. Aquí te explico sus diferencias y similitudes:
