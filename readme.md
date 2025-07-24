@@ -18,21 +18,21 @@ Describiremos cómo nos sirve localmente para poder versionar nuestro software.
 ### Temas a desarrollar por los miembros del Equipo:  
 Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 
-## 4) Desarrollador Frontend
+## 4) Desarrollador Frontend *Cada uno complete lo que le corresponda*
 - Descripción del rol: El desarrollo frontend se enfoca en la creación de la interfaz visual y la experiencia del usuario en una página web. Utiliza HTML, CSS y JS para construir páginas interactivas y responsivas. Su objetivo principal es garantizar que los usuarios puedan interactuar de forma intuitiva, rápida y eficiente con el sitio o aplicación. 
 - Habilidades requeridas:   
 - Relación con roles de Backend, QA, Desarrollador Android:   
 - Stack tecnológico:  
   - Lenguajes  
   - Frameworks  
-*Cada uno complete lo que le corresponda*
-## 5) Links recomendados para capacitación Rol Frontend
+
+## 5) Links recomendados para capacitación Rol Frontend *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
 🔹 Con certificación  
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
-## 6) Desarrollador Backend
+## 6) Desarrollador Backend *Cada uno complete lo que le corresponda*
 - Descripción del rol:
 - Habilidades requeridas:   
 - Relación con roles de Frontend, QA, Desarrollador Android:   
@@ -40,12 +40,12 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - Lenguajes  
   - Frameworks 
 
-## 7) Links recomendados para capacitación Rol Backend
+## 7) Links recomendados para capacitación Rol Backend *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
 🔹 Con certificación  
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google)  
-## 8) Rol QA
+## 8) Rol QA *Cada uno complete lo que le corresponda*
 - Descripción del rol:
 - Habilidades requeridas:   
 - Relación con roles de Frontend, Backend, Desarrollador Android:   
@@ -53,13 +53,13 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - Lenguajes  
   - Frameworks 
 
-## 9) Links recomendados para capacitación Rol QA
+## 9) Links recomendados para capacitación Rol QA *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
 🔹 Con certificación  
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
-## 8) Desarrollador Android
+## 8) Desarrollador Android *Cada uno complete lo que le corresponda*
 - Descripción del rol:
 - Habilidades requeridas:   
 - Relación con roles de Frontend, Backend, QA:   
@@ -67,7 +67,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - Lenguajes  
   - Frameworks 
 
-## 9) Links recomendados para capacitación Rol Android
+## 9) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
 🔹 Con certificación  
 🔹 Proyectos completos de ejemplo  
