@@ -1,7 +1,7 @@
 # Estudio de Roles Básicos en Desarrollo Web y Móvil
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio
 - Luis García lgarciada@unsa.edu.pe
-- 
+- Richard Negron rnegron@unsa.edu.pe
 
 ## 1) Conceptos Generales para tener en cuenta
 En el contexto de desarrollo web y móvil: diferencias entre librerías, frameworks y patrones de diseño.
