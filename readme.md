@@ -23,9 +23,9 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 - Habilidades requeridas:
      -HTML/CSS: Maquetación y diseño de páginas web.
      -JavaScript: Interactividad y lógica del lado del cliente.
-  Frameworks: Desarrollo eficiente y estructurado.
-- Control de versiones (Git): Seguimiento y colaboración en código.
-- Diseño UI/UX básico: Crear interfaces amigables y atractivas.
+     -Frameworks: Desarrollo eficiente y estructurado.
+     - Control de versiones (Git): Seguimiento y colaboración en código.
+     - Diseño UI/UX básico: Crear interfaces amigables y atractivas.
 - Relación con roles de Backend, QA, Desarrollador Android: El frontend se conecta con el backend mediante APIs para mostrar datos, y colabora con QA para asegurar calidad visual y funcional. También trabaja en paralelo con desarrolladores Android, creando interfaces similares en distintas plataformas.   
 - Stack tecnológico:  
   - Lenguajes  
