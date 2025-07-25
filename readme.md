@@ -33,7 +33,7 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 
 ## 5) Links recomendados para capacitación Rol Frontend *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones:
-     developer.mozilla.org
+     - developer.mozilla.org
      - www.w3schools.com
      - css-tricks.com
      - javascript.info
