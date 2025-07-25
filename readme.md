@@ -34,8 +34,17 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 
 ## 6) Desarrollador Backend *Cada uno complete lo que le corresponda*
 - Descripción del rol: El desarrollador backend se encarga de construir y mantener la lógica interna de una aplicación, gestionando bases de datos, servidores y APIs para garantizar que el sistema funcione correctamente y sea seguro.
-- Habilidades requeridas:   
-- Relación con roles de Frontend, QA, Desarrollador Android:   
+- Habilidades requeridas:
+   - Conocimiento de Lenguajes de Programación: Como Java, Python, Ruby, entre otros.
+   - Medidas de seguridad: Para proteger datos y sistemas.
+   - Integración con Frontend: Capacidad para integrar el backend con el frontend, a menudo utilizando tecnologías como HTML, CSS y JavaScript.
+   - Comunicación: Ser efectiva tanto oral como escrita para colaborar con otros miembros.
+   - Resolución de problemas: Capacidad para analizar, reconocer, resolver incidencias. 
+   
+- Relación con roles de Frontend, QA, Desarrollador Android:
+   - Frontend: El frontend envia señales al backend, el backend procesa estas mismas y envia la información necesaria para que el frontend lo muestre en su interfaz.
+   - QA: Estos dos roles mantienen  una estrecha comunicación para que el producto realizado satisfaga las necesidades del usuario. Probar la seguridad, bases de datos y el rendimiento, es fundamental.
+   - Desarrollador Android: Trabajan en conjunto para crear aplicaciones funcionales. El backend se encarga de la lógica del servidor, bases de datos y APIs, mientras que el desarrollador Android diseña la interfaz y consume esos servicios
 - Stack tecnológico:  
   - Lenguajes  
   - Frameworks 
