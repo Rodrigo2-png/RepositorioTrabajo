@@ -20,7 +20,8 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 
 ## 4) Desarrollador Frontend *Cada uno complete lo que le corresponda*
 - Descripción del rol: El desarrollo frontend se enfoca en la creación de la interfaz visual y la experiencia del usuario en una página web. Utiliza HTML, CSS y JS para construir páginas interactivas y responsivas. Su objetivo principal es garantizar que los usuarios puedan interactuar de forma intuitiva, rápida y eficiente con el sitio o aplicación. 
-- Habilidades requeridas:   
+- Habilidades requeridas:
+- 111
 - Relación con roles de Backend, QA, Desarrollador Android:   
 - Stack tecnológico:  
   - Lenguajes  
