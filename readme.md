@@ -1,4 +1,4 @@
-# Estudio de Roles Básicos en Desarrollo Web y Móvil
+     # Estudio de Roles Básicos en Desarrollo Web y Móvil
 ## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio
 - Luis García lgarciada@unsa.edu.pe
 - Richard Negron rnegron@unsa.edu.pe
@@ -32,9 +32,17 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
   - Frameworks   
 
 ## 5) Links recomendados para capacitación Rol Frontend *Cada uno complete lo que le corresponda*
-🔹 Sin certificaciones  
-🔹 Con certificación  
-🔹 Proyectos completos de ejemplo  
+🔹 Sin certificaciones:
+     - developer.mozilla.org
+     - www.w3schools.com
+     - css-tricks.com
+     - javascript.info
+🔹 Con certificación:
+     - www.freecodecamp.org
+     - www.sololearn.com
+     - learn.microsoft.com
+     - www.coursera.org
+🔹 Proyectos completos de ejemplo
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
 ## 6) Desarrollador Backend *Cada uno complete lo que le corresponda*
