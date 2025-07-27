@@ -3,6 +3,7 @@
 - Luis García lgarciada@unsa.edu.pe
 - Richard Negron rnegron@unsa.edu.pe
 - Valeria Ticona Nina vticonan@unsa.edu.pe (QA)
+- Dayla Kyara Ticona Salgado dticonasa@unsa.edu.pe (QA)
 ## 1) Conceptos Generales para tener en cuenta
 En el contexto de desarrollo web y móvil: diferencias entre librerías, frameworks y patrones de diseño.
 
@@ -75,7 +76,14 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google)  
 ## 8) Rol QA *Cada uno complete lo que le corresponda*
-- Descripción del rol:
+- Descripción del rol: En las empresas tecnológicas, asegurar la calidad del software es tan importante como desarrollarlo. Aquí es donde entra el rol de QA (Quality Assurance).
+El QA no solo detecta errores, sino que trabaja desde etapas tempranas del proyecto para prevenir fallos y garantizar que el producto funcione correctamente.
+Este rol aporta valor al desarrollo al enfocarse en la funcionalidad, eficiencia y satisfacción del usuario, además de fortalecer la comunicación con otros equipos como frontend, backend y producto.
+- Funciones:
+     - Revisión: El QA analiza los requerimientos del sistema para detectar errores o ambigüedades desde el inicio del proyecto.
+     - Pruebas: Diseña y ejecuta pruebas para asegurarse de que cada función del software opere correctamente.
+     - Detección de errores: Identifica fallos en el sistema, los documenta y los comunica al equipo de desarrollo para que sean corregidos.
+     - Validación final: Comprueba que los errores corregidos no hayan generado nuevos problemas y que el sistema esté listo para ser lanzado.
 - Habilidades requeridas:
      - Habilidades Técnicas:
           - Conocimiento de metodologías de testing: Test cases, planes de prueba y estrategias de testing (manual y automatizado).
