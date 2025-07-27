@@ -4,6 +4,7 @@
 - Richard Negron rnegron@unsa.edu.pe
 - Valeria Ticona Nina vticonan@unsa.edu.pe (QA)
 - Dayla Kyara Ticona Salgado dticonasa@unsa.edu.pe (QA)
+- Jhovi José Cusi Quicaño jcusiq@unsa.edu.pe (Android)
 ## 1) Conceptos Generales para tener en cuenta
 En el contexto de desarrollo web y móvil: diferencias entre librerías, frameworks y patrones de diseño.
 
@@ -140,7 +141,12 @@ Nivel Intermedio:
 
 ## 9) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
+https://developer.android.com/guide
+https://codelabs.developers.google.com/?cat=Android
+https://kotlinlang.org/docs/home.html
+https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 🔹 Con certificación  
+
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
