@@ -76,7 +76,17 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 🔹 Recomendadas por líderes (Microsoft, AWS, Google)  
 ## 8) Rol QA *Cada uno complete lo que le corresponda*
 - Descripción del rol:
-- Habilidades requeridas:   
+- Habilidades requeridas:
+     - Habilidades Técnicas:
+          - Conocimiento de metodologías de testing: Test cases, planes de prueba y estrategias de testing (manual y automatizado).
+          - Fundamentos de software: Comprender los conceptos básicos del ciclo de vida del software (SDLC), tipos de testing.
+          - Automatización de pruebas: Selenium, Cypress, JMeter, Appium, Postman, o similares para automatizar pruebas funcionales, de API y de carga.
+          - Manejo de herramientas de gestión: Jira, TestRail, Zephyr, Quality Center para reportes de bugs, gestión de incidencias y seguimiento de pruebas.
+          - Conocimientos de al menos un scripting/código: Python, Java, JavaScript, etc.
+     - Habilidades Blandas:
+          - Pensamiento analítico y crítico
+          - Detallismo y precisión
+          - Comunicación efectiva
 - Relación con roles de Frontend, Backend, Desarrollador Android:   
 - Stack tecnológico:  
   - Lenguajes  
@@ -84,7 +94,28 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
 
 ## 9) Links recomendados para capacitación Rol QA *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
+
+- Testing Al Grano – UPEX Galaxy (YouTube)
+    > https://www.youtube.com/watch?v=Fv5ROH9D14o
+
 🔹 Con certificación  
+
+Nivel Principiante:
+- Testea y Conecta: 20 dias de QA en Apps Descentralizadas.(Certificado de participación + POAP)
+    > https://academiaqa.com/courses/20-dias-qa/ 
+- Quality Assurance (QA) - Techniques and Methodologies
+    > https://alison.com/course/quality-assurance-qa-techniques-and-methodologies (Certificación de pago)
+- Curso de Tester de Software
+    > https://edutin.com/curso-de-tester (Certificación de pago)
+
+Nivel Intermedio:
+- Best Quality Assurance Courses
+    > https://alison.com/tag/quality-assurance (Certificación de pago)
+- QA Process Optimization: Agile & Automated Testing
+    > https://www.coursera.org/learn/qa-process-optimization-agile-automated-testing (Certificación de pago)
+- Free Quality Assurance Bootcamp
+    > https://www.codingtemple.com/free-courses/quality-assurance/
+
 🔹 Proyectos completos de ejemplo  
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
