@@ -5,6 +5,7 @@
 - Valeria Ticona Nina vticonan@unsa.edu.pe (QA)
 - Dayla Kyara Ticona Salgado dticonasa@unsa.edu.pe (QA)
 - Jhovi José Cusi Quicaño jcusiq@unsa.edu.pe (Android)
+- Rodrigo Mamani Muñoz rmamanimu@unsa.edu.pe (Android)
 ## 1) Conceptos Generales para tener en cuenta
 En el contexto de desarrollo web y móvil: diferencias entre librerías, frameworks y patrones de diseño.
 
@@ -132,12 +133,30 @@ Nivel Intermedio:
 🔹 Recomendadas por líderes (Microsoft, AWS, Google) 
 
 ## 8) Desarrollador Android *Cada uno complete lo que le corresponda*
-- Descripción del rol:
-- Habilidades requeridas:   
-- Relación con roles de Frontend, Backend, QA:   
+- Descripción del rol: El programador de Android es un profesional especializado en crear, diseñar y  mantener aplicacionesmóviles para dispositivos con sistema operativo Android.Su trabajo combina habilidades deprogramación, diseño de interfaces y lógica de negocio para crear aplicaciones funcionales, atractivas yeficientes que cumplan con las necesidades del usuario y los estándares de Google.Android es un sistema operativo móvil de código abierto basado en el núcleo de Linux (Linux Kernel). Fuediseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas.
+- Habilidades requeridas: 
+      1. Dominio de Kotlin o Java
+      2. Experiencia con Android Jetpack
+      3. Manejo de herramientas de control de versiones (Git).
+      4. Uso de herramientas de JUnit, Espresso.
+      5. Conocimiento de patrones de arquitectura como MVVM, MVP o Clean Architecture.
+      6. Experiencia en publicación y mantenimiento de apps en Google Play Store.
+      7. Conocimientos de integración con APIs REST y manejo de JSON.
+- Relación con roles de Frontend, Backend, QA:
+      1. Frontend en Android: Colabora para mantener la consistencia en  la experiencia de usuario.
+      2. Backend: Colabora para crear servicios, reportar errores y validar endpoints.
+      3. QA (Quality Assurance): Trabaja en conjunto para garantizar calidad mediante pruebas manuales y automatizadas asi como la corrección de bugs.
 - Stack tecnológico:  
-  - Lenguajes  
+  - Lenguajes: 
+      1. Kotlin 
+      2. Java
   - Frameworks 
+      1. Android SDK
+      2. Jetpack Compose
+      3. Firebase
+      4. Retrofit
+      5. Coroutines
+      6. RxJava 
 
 ## 9) Links recomendados para capacitación Rol Android *Cada uno complete lo que le corresponda*
 🔹 Sin certificaciones  
