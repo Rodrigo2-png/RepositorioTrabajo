@@ -87,7 +87,10 @@ Roles básicos en el desarrollo de aplicaciones web y aplicación móvil
           - Pensamiento analítico y crítico
           - Detallismo y precisión
           - Comunicación efectiva
-- Relación con roles de Frontend, Backend, Desarrollador Android:   
+- Relación con roles de Frontend, Backend, Desarrollador Android:
+     - Frontend: QA prueba la interfaz que ve el usuario final: botones, formularios, menús, navegación, etc.
+     - Backend: Devuelva respuestas correctas. Tenga buen manejo de errores. (Pruebas de API).
+     - Android: Funcione en distintos dispositivos Android, resoluciones y versiones del sistema operativo. No tenga fallas al instalarse, abrirse o cerrarse.
 - Stack tecnológico:  
   - Lenguajes  
   - Frameworks 
